@@ -1,4 +1,4 @@
 Yoffee
 ======
 
-Use (Yo)[http://justyo.co] to make coffee!
+Use [Yo](http://justyo.co) to make coffee!
